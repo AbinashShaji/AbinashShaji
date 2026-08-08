@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 190" width="100%" height="190">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700&amp;display=swap');
-      
       .lcd-text {
-        font-family: 'JetBrains Mono', monospace;
+        font-family: monospace, "Courier New", "Lucida Console", sans-serif;
         font-size: 11px;
-        font-weight: 700;
+        font-weight: bold;
         letter-spacing: 0.12em;
         fill: #8BA888;
       }
@@ -17,7 +15,7 @@
         fill: #4B5949;
       }
 
-      /* Snake Movement Animations */
+      /* Continuous Smooth Snake Movement */
       @keyframes snakeSlither {
         0% { transform: translate(0px, 0px); }
         15% { transform: translate(180px, 0px); }
@@ -32,12 +30,12 @@
 
       @keyframes foodBlink {
         0%, 100% { opacity: 1; transform: scale(1); }
-        50% { opacity: 0.4; transform: scale(0.85); }
+        50% { opacity: 0.35; transform: scale(0.85); }
       }
 
       @keyframes pulseGlow {
-        0%, 100% { opacity: 0.8; }
-        50% { opacity: 0.4; }
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 0.35; }
       }
 
       .snake-body {
@@ -52,7 +50,7 @@
       }
     </style>
 
-    <!-- Ambient Glass Filter -->
+    <!-- Ambient Dark Glass Filter -->
     <filter id="nokiaGlow" x="-10%" y="-10%" width="120%" height="120%">
       <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#B96F6B" flood-opacity="0.15" />
     </filter>
@@ -75,7 +73,7 @@
   <!-- Top LCD Status Bar -->
   <g transform="translate(25, 22)">
     <text x="0" y="0" class="lcd-text">NOKIA <tspan class="lcd-dim">//</tspan> SNAKE-3310</text>
-    <text x="310" y="0" class="lcd-text">SCORE: <tspan class="lcd-accent">042</tspan> &nbsp;·&nbsp; SPEED: <tspan class="lcd-accent">9</tspan></text>
+    <text x="310" y="0" class="lcd-text">SCORE: <tspan class="lcd-accent">042</tspan> &#160;·&#160; SPEED: <tspan class="lcd-accent">9</tspan></text>
     <g transform="translate(640, -9)">
       <rect x="0" y="0" width="8" height="8" rx="1.5" fill="#B96F6B" class="food-item" />
       <text x="14" y="9" class="lcd-text">COMMITS: <tspan fill="#A3B18A">ACTIVE</tspan></text>
@@ -89,12 +87,8 @@
   <!-- 52-Week Contribution Matrix -->
   <g transform="translate(24, 52)">
     <!-- Base Matrix Cells (10x10 squares spaced 15px) -->
-    <!-- Rows: Mon, Tue, Wed, Thu, Fri, Sat, Sun -->
     <g fill="#161B1E">
-      <!-- 52 columns pattern generation -->
       <g id="col-pattern">
-        <!-- Loop 52 columns of 7 rows -->
-        <!-- Col 0 - 51 -->
         <!-- Row 0 -->
         <rect x="0" y="0" width="10" height="10" rx="2"/><rect x="15" y="0" width="10" height="10" rx="2"/><rect x="30" y="0" width="10" height="10" rx="2"/><rect x="45" y="0" width="10" height="10" rx="2"/><rect x="60" y="0" width="10" height="10" rx="2"/><rect x="75" y="0" width="10" height="10" rx="2"/><rect x="90" y="0" width="10" height="10" rx="2"/><rect x="105" y="0" width="10" height="10" rx="2"/><rect x="120" y="0" width="10" height="10" rx="2"/><rect x="135" y="0" width="10" height="10" rx="2"/><rect x="150" y="0" width="10" height="10" rx="2"/><rect x="165" y="0" width="10" height="10" rx="2"/><rect x="180" y="0" width="10" height="10" rx="2"/><rect x="195" y="0" width="10" height="10" rx="2"/><rect x="210" y="0" width="10" height="10" rx="2"/><rect x="225" y="0" width="10" height="10" rx="2"/><rect x="240" y="0" width="10" height="10" rx="2"/><rect x="255" y="0" width="10" height="10" rx="2"/><rect x="270" y="0" width="10" height="10" rx="2"/><rect x="285" y="0" width="10" height="10" rx="2"/><rect x="300" y="0" width="10" height="10" rx="2"/><rect x="315" y="0" width="10" height="10" rx="2"/><rect x="330" y="0" width="10" height="10" rx="2"/><rect x="345" y="0" width="10" height="10" rx="2"/><rect x="360" y="0" width="10" height="10" rx="2"/><rect x="375" y="0" width="10" height="10" rx="2"/><rect x="390" y="0" width="10" height="10" rx="2"/><rect x="405" y="0" width="10" height="10" rx="2"/><rect x="420" y="0" width="10" height="10" rx="2"/><rect x="435" y="0" width="10" height="10" rx="2"/><rect x="450" y="0" width="10" height="10" rx="2"/><rect x="465" y="0" width="10" height="10" rx="2"/><rect x="480" y="0" width="10" height="10" rx="2"/><rect x="495" y="0" width="10" height="10" rx="2"/><rect x="510" y="0" width="10" height="10" rx="2"/><rect x="525" y="0" width="10" height="10" rx="2"/><rect x="540" y="0" width="10" height="10" rx="2"/><rect x="555" y="0" width="10" height="10" rx="2"/><rect x="570" y="0" width="10" height="10" rx="2"/><rect x="585" y="0" width="10" height="10" rx="2"/><rect x="600" y="0" width="10" height="10" rx="2"/><rect x="615" y="0" width="10" height="10" rx="2"/><rect x="630" y="0" width="10" height="10" rx="2"/><rect x="645" y="0" width="10" height="10" rx="2"/><rect x="660" y="0" width="10" height="10" rx="2"/><rect x="675" y="0" width="10" height="10" rx="2"/><rect x="690" y="0" width="10" height="10" rx="2"/><rect x="705" y="0" width="10" height="10" rx="2"/><rect x="720" y="0" width="10" height="10" rx="2"/><rect x="735" y="0" width="10" height="10" rx="2"/><rect x="750" y="0" width="10" height="10" rx="2"/><rect x="765" y="0" width="10" height="10" rx="2"/><rect x="780" y="0" width="10" height="10" rx="2"/><rect x="795" y="0" width="10" height="10" rx="2"/>
 
