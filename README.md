@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=B96F6B&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/abinashshaji/">
   <img src="https://img.shields.io/badge/LinkedIn-0D0F12?style=for-the-badge&logo=linkedin&logoColor=B96F6B" alt="LinkedIn" />
