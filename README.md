@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/coding.gif" width="100%" alt="Abinash coding">
+<img src="./assets/banner.gif" width="100%" alt="Abinash coding">
 
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E85D5D&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING.)](https://git.io/typing-svg)
