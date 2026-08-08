@@ -3,23 +3,25 @@
 <img src="./assets/banner.gif" width="100%" alt="Abinash Shaji — Late Night Workspace" style="border-radius: 8px;">
 
 <br><br>
+
 <img src="./assets/header-title.svg" width="100%" alt="Abinash Shaji — Header">
 
 <br><br>
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=B8A4FF&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=B96F6B&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/abinashshaji/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0F14?style=for-the-badge&logo=linkedin&logoColor=B8A4FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D0F12?style=for-the-badge&logo=linkedin&logoColor=B96F6B" alt="LinkedIn" />
 </a>
 <a href="https://github.com/AbinashShaji">
-  <img src="https://img.shields.io/badge/GitHub-0D0F14?style=for-the-badge&logo=github&logoColor=B8A4FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0D0F12?style=for-the-badge&logo=github&logoColor=B96F6B" alt="GitHub" />
 </a>
 <a href="https://portfolio-2-gilt-one.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0D0F12?style=for-the-badge&logo=vercel&logoColor=B96F6B" alt="Portfolio" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=AbinashShaji&style=for-the-badge&color=0D0F14&labelColor=11131A&label=VISITS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AbinashShaji&style=for-the-badge&color=0D0F12&labelColor=25282A&label=VISITS" alt="Profile Views" />
 
 </div>
 
@@ -60,10 +62,10 @@ Currently exploring **full-stack architecture, Python, Java, JavaScript, React, 
 #### ◈ `LANGUAGES`
 <br>
 
-[![Python](https://img.shields.io/badge/Python-0D0F14?style=for-the-badge&logo=python&logoColor=B8A4FF)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-0D0F14?style=for-the-badge&logo=openjdk&logoColor=B8A4FF)](https://www.oracle.com/java/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-0D0F14?style=for-the-badge&logo=javascript&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C-0D0F14?style=for-the-badge&logo=c&logoColor=B8A4FF)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 </td>
 <td width="50%" valign="top">
@@ -71,11 +73,11 @@ Currently exploring **full-stack architecture, Python, Java, JavaScript, React, 
 #### ◈ `FRONTEND`
 <br>
 
-[![React](https://img.shields.io/badge/React-0D0F14?style=for-the-badge&logo=react&logoColor=B8A4FF)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-0D0F14?style=for-the-badge&logo=vite&logoColor=B8A4FF)](https://vitejs.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-0D0F14?style=for-the-badge&logo=html5&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-0D0F14?style=for-the-badge&logo=css3&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D0F14?style=for-the-badge&logo=tailwindcss&logoColor=B8A4FF)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 </td>
 </tr>
@@ -85,10 +87,10 @@ Currently exploring **full-stack architecture, Python, Java, JavaScript, React, 
 #### ◈ `BACKEND & DATABASE`
 <br>
 
-[![Flask](https://img.shields.io/badge/Flask-0D0F14?style=for-the-badge&logo=flask&logoColor=B8A4FF)](https://flask.palletsprojects.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0F14?style=for-the-badge&logo=springboot&logoColor=B8A4FF)](https://spring.io/projects/spring-boot)
-[![SQLite](https://img.shields.io/badge/SQLite-0D0F14?style=for-the-badge&logo=sqlite&logoColor=B8A4FF)](https://www.sqlite.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0F14?style=for-the-badge&logo=postgresql&logoColor=B8A4FF)](https://www.postgresql.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 </td>
 <td width="50%" valign="top">
@@ -96,9 +98,9 @@ Currently exploring **full-stack architecture, Python, Java, JavaScript, React, 
 #### ◈ `TOOLS & PLATFORMS`
 <br>
 
-[![Git](https://img.shields.io/badge/Git-0D0F14?style=for-the-badge&logo=git&logoColor=B8A4FF)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-0D0F14?style=for-the-badge&logo=docker&logoColor=B8A4FF)](https://www.docker.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF)](https://vercel.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </td>
 </tr>
@@ -175,14 +177,21 @@ A curated collection of responsive web development projects, bespoke client appl
 
 <br><br>
 
-<img src="./assets/sec-snake.svg" width="100%" alt="05 // Contribution Game">
+<img src="./assets/sec-snake.svg" width="100%" alt="05 // Contribution">
 
 <br>
 
 <div align="center">
 
-<!-- Generated automatically by .github/workflows/snake.yml -->
-<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation">
+<p><em>A little progress, one commit at a time.</em></p>
+
+<br>
+
+<img src="./assets/nokia-snake.svg" width="100%" alt="Nokia Snake Contribution Grid">
+
+<br><br>
+
+`commit → build → break → repair → repeat`
 
 </div>
 
@@ -194,11 +203,11 @@ A curated collection of responsive web development projects, bespoke client appl
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=AbinashShaji&hide_border=true&background=0D0F14&ring=B8A4FF&fire=B8A4FF&currStreakLabel=B8A4FF&sideLabels=A7A3B5&dates=8F82C7&currStreakNum=F2F0F7&sideNums=F2F0F7" alt="GitHub Streak Stats" />
+<img height="180em" src="https://streak-stats.demolab.com?user=AbinashShaji&hide_border=true&background=0D0F12&ring=B96F6B&fire=B96F6B&currStreakLabel=B96F6B&sideLabels=AAB2B0&dates=D69A91&currStreakNum=F3EBDD&sideNums=F3EBDD" alt="GitHub Streak Stats" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinashShaji&bg_color=0D0F14&color=A7A3B5&line=B8A4FF&point=F2F0F7&area=true&area_color=11131A&hide_border=true" width="98%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinashShaji&bg_color=0D0F12&color=AAB2B0&line=B96F6B&point=F3EBDD&area=true&area_color=25282A&hide_border=true" width="98%" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -211,15 +220,15 @@ A curated collection of responsive web development projects, bespoke client appl
 <div align="center">
 
 <a href="https://github.com/AbinashShaji">
-  <img src="https://img.shields.io/badge/GitHub-AbinashShaji-0D0F14?style=for-the-badge&logo=github&logoColor=B8A4FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-AbinashShaji-0D0F12?style=for-the-badge&logo=github&logoColor=B96F6B" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abinashshaji/">
-  <img src="https://img.shields.io/badge/LinkedIn-AbinashShaji-0D0F14?style=for-the-badge&logo=linkedin&logoColor=B8A4FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-AbinashShaji-0D0F12?style=for-the-badge&logo=linkedin&logoColor=B96F6B" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-2-gilt-one.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF" alt="Portfolio Live" />
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0D0F12?style=for-the-badge&logo=vercel&logoColor=B96F6B" alt="Portfolio Live" />
 </a>
 
 <br><br>

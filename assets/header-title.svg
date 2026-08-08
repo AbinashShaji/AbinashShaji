@@ -7,7 +7,7 @@
         font-size: 38px;
         font-weight: 600;
         letter-spacing: 0.18em;
-        fill: #F2F0F7;
+        fill: #F3EBDD;
         text-anchor: middle;
       }
       .subtitle {
@@ -15,23 +15,23 @@
         font-size: 11px;
         font-weight: 500;
         letter-spacing: 0.28em;
-        fill: #A7A3B5;
+        fill: #AAB2B0;
         text-anchor: middle;
       }
       .accent {
-        fill: #B8A4FF;
+        fill: #B96F6B;
       }
     </style>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="rgba(184, 164, 255, 0)" />
-      <stop offset="25%" stop-color="rgba(184, 164, 255, 0.4)" />
-      <stop offset="50%" stop-color="rgba(184, 164, 255, 0.8)" />
-      <stop offset="75%" stop-color="rgba(184, 164, 255, 0.4)" />
-      <stop offset="100%" stop-color="rgba(184, 164, 255, 0)" />
+    <linearGradient id="roseLineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(185, 111, 107, 0)" />
+      <stop offset="25%" stop-color="rgba(185, 111, 107, 0.4)" />
+      <stop offset="50%" stop-color="rgba(214, 154, 145, 0.85)" />
+      <stop offset="75%" stop-color="rgba(185, 111, 107, 0.4)" />
+      <stop offset="100%" stop-color="rgba(185, 111, 107, 0)" />
     </linearGradient>
   </defs>
   
   <text x="425" y="46" class="title">ABINASH SHAJI</text>
-  <line x1="280" y1="64" x2="570" y2="64" stroke="url(#lineGrad)" stroke-width="1" />
+  <line x1="280" y1="64" x2="570" y2="64" stroke="url(#roseLineGrad)" stroke-width="1.2" />
   <text x="425" y="86" class="subtitle">MCA STUDENT <tspan class="accent">·</tspan> DEVELOPER <tspan class="accent">·</tspan> BUILDER</text>
 </svg>

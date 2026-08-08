@@ -1,79 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="100%" height="160">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="100%" height="170">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap');
       .panel-title {
         font-family: 'Cormorant Garamond', 'Canela', Georgia, 'Times New Roman', serif;
-        font-size: 20px;
+        font-size: 21px;
         font-weight: 700;
-        letter-spacing: 0.14em;
-        fill: #F2F0F7;
+        letter-spacing: 0.16em;
+        fill: #F3EBDD;
       }
       .panel-item {
         font-family: 'JetBrains Mono', monospace, -apple-system, sans-serif;
         font-size: 11.5px;
         font-weight: 400;
         letter-spacing: 0.08em;
-        fill: #A7A3B5;
+        fill: #AAB2B0;
       }
-      .panel-dot {
-        fill: #B8A4FF;
+      .panel-num {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 10px;
+        font-weight: 500;
+        fill: #B96F6B;
       }
       .arrow {
         font-family: 'JetBrains Mono', monospace;
-        font-size: 14px;
-        fill: #8F82C7;
-        opacity: 0.6;
+        font-size: 15px;
+        fill: #D69A91;
+        opacity: 0.7;
         text-anchor: middle;
       }
     </style>
-    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#11131A" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#08090D" stop-opacity="0.9" />
+
+    <!-- Subtle Ambient Dusty Rose Glow Filter -->
+    <filter id="subtleRoseGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="6" flood-color="#B96F6B" flood-opacity="0.16" />
+    </filter>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="glassCardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#181B22" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0D0F12" stop-opacity="0.95" />
     </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="rgba(184, 164, 255, 0.25)" />
+
+    <!-- Glass Border Gradient with Soft Dusty Rose Accent -->
+    <linearGradient id="roseBorderGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(185, 111, 107, 0.45)" />
       <stop offset="50%" stop-color="rgba(255, 255, 255, 0.08)" />
-      <stop offset="100%" stop-color="rgba(184, 164, 255, 0.15)" />
+      <stop offset="100%" stop-color="rgba(214, 154, 145, 0.25)" />
+    </linearGradient>
+    
+    <linearGradient id="roseBorderGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(214, 154, 145, 0.45)" />
+      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.08)" />
+      <stop offset="100%" stop-color="rgba(185, 111, 107, 0.25)" />
+    </linearGradient>
+
+    <linearGradient id="roseBorderGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(185, 111, 107, 0.50)" />
+      <stop offset="50%" stop-color="rgba(255, 255, 255, 0.08)" />
+      <stop offset="100%" stop-color="rgba(214, 154, 145, 0.35)" />
     </linearGradient>
   </defs>
 
   <!-- Panel 1: BUILD -->
   <g transform="translate(10, 10)">
-    <rect width="250" height="140" rx="10" fill="url(#panelGrad)" stroke="url(#borderGrad)" stroke-width="1" />
-    <circle cx="28" cy="36" r="3.5" class="panel-dot" />
-    <text x="42" y="42" class="panel-title">BUILD</text>
-    <line x1="28" y1="58" x2="222" y2="58" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
-    <text x="28" y="82" class="panel-item"><tspan fill="#8F82C7">01</tspan>  Idea Formulation</text>
-    <text x="28" y="104" class="panel-item"><tspan fill="#8F82C7">02</tspan>  Clean Architecture</text>
-    <text x="28" y="126" class="panel-item"><tspan fill="#8F82C7">03</tspan>  Ship &amp; Create</text>
+    <rect width="250" height="150" rx="12" fill="url(#glassCardGrad)" stroke="url(#roseBorderGrad1)" stroke-width="1.2" filter="url(#subtleRoseGlow)" />
+    <!-- Glass Highlight line -->
+    <line x1="20" y1="1" x2="230" y2="1" stroke="rgba(255,255,255,0.12)" stroke-width="1" />
+    
+    <!-- Minimalist Icon / Marker -->
+    <circle cx="28" cy="38" r="4" fill="#B96F6B" />
+    <circle cx="28" cy="38" r="7" fill="none" stroke="rgba(185, 111, 107, 0.35)" stroke-width="1" />
+    <text x="44" y="44" class="panel-title">BUILD</text>
+    
+    <line x1="24" y1="62" x2="226" y2="62" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    
+    <text x="26" y="88" class="panel-item"><tspan class="panel-num">01</tspan>  Idea Formulation</text>
+    <text x="26" y="110" class="panel-item"><tspan class="panel-num">02</tspan>  Clean Architecture</text>
+    <text x="26" y="132" class="panel-item"><tspan class="panel-num">03</tspan>  Ship &amp; Create</text>
   </g>
 
-  <!-- Connector 1 -->
-  <text x="285" y="86" class="arrow">→</text>
+  <!-- Connecting Flow 1 -->
+  <text x="285" y="92" class="arrow">→</text>
 
   <!-- Panel 2: BREAK -->
   <g transform="translate(300, 10)">
-    <rect width="250" height="140" rx="10" fill="url(#panelGrad)" stroke="url(#borderGrad)" stroke-width="1" />
-    <circle cx="28" cy="36" r="3.5" class="panel-dot" />
-    <text x="42" y="42" class="panel-title">BREAK</text>
-    <line x1="28" y1="58" x2="222" y2="58" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
-    <text x="28" y="82" class="panel-item"><tspan fill="#8F82C7">01</tspan>  Stress &amp; Edge Cases</text>
-    <text x="28" y="104" class="panel-item"><tspan fill="#8F82C7">02</tspan>  Runtime Failures</text>
-    <text x="28" y="126" class="panel-item"><tspan fill="#8F82C7">03</tspan>  Expose Weaknesses</text>
+    <rect width="250" height="150" rx="12" fill="url(#glassCardGrad)" stroke="url(#roseBorderGrad2)" stroke-width="1.2" filter="url(#subtleRoseGlow)" />
+    <line x1="20" y1="1" x2="230" y2="1" stroke="rgba(255,255,255,0.12)" stroke-width="1" />
+    
+    <circle cx="28" cy="38" r="4" fill="#D69A91" />
+    <circle cx="28" cy="38" r="7" fill="none" stroke="rgba(214, 154, 145, 0.35)" stroke-width="1" />
+    <text x="44" y="44" class="panel-title">BREAK</text>
+    
+    <line x1="24" y1="62" x2="226" y2="62" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    
+    <text x="26" y="88" class="panel-item"><tspan class="panel-num">01</tspan>  Stress &amp; Edge Cases</text>
+    <text x="26" y="110" class="panel-item"><tspan class="panel-num">02</tspan>  Runtime Exceptions</text>
+    <text x="26" y="132" class="panel-item"><tspan class="panel-num">03</tspan>  Expose Bottlenecks</text>
   </g>
 
-  <!-- Connector 2 -->
-  <text x="575" y="86" class="arrow">→</text>
+  <!-- Connecting Flow 2 -->
+  <text x="575" y="92" class="arrow">→</text>
 
   <!-- Panel 3: REPAIR -->
   <g transform="translate(590, 10)">
-    <rect width="250" height="140" rx="10" fill="url(#panelGrad)" stroke="url(#borderGrad)" stroke-width="1" />
-    <circle cx="28" cy="36" r="3.5" class="panel-dot" />
-    <text x="42" y="42" class="panel-title">REPAIR</text>
-    <line x1="28" y1="58" x2="222" y2="58" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
-    <text x="28" y="82" class="panel-item"><tspan fill="#8F82C7">01</tspan>  Root Cause Debug</text>
-    <text x="28" y="104" class="panel-item"><tspan fill="#8F82C7">02</tspan>  Understand &amp; Learn</text>
-    <text x="28" y="126" class="panel-item"><tspan fill="#8F82C7">03</tspan>  Refactor &amp; Improve</text>
+    <rect width="250" height="150" rx="12" fill="url(#glassCardGrad)" stroke="url(#roseBorderGrad3)" stroke-width="1.2" filter="url(#subtleRoseGlow)" />
+    <line x1="20" y1="1" x2="230" y2="1" stroke="rgba(255,255,255,0.12)" stroke-width="1" />
+    
+    <circle cx="28" cy="38" r="4" fill="#B96F6B" />
+    <circle cx="28" cy="38" r="7" fill="none" stroke="rgba(185, 111, 107, 0.35)" stroke-width="1" />
+    <text x="44" y="44" class="panel-title">REPAIR</text>
+    
+    <line x1="24" y1="62" x2="226" y2="62" stroke="rgba(255,255,255,0.06)" stroke-width="1" />
+    
+    <text x="26" y="88" class="panel-item"><tspan class="panel-num">01</tspan>  Root Cause Debug</text>
+    <text x="26" y="110" class="panel-item"><tspan class="panel-num">02</tspan>  Deep Comprehension</text>
+    <text x="26" y="132" class="panel-item"><tspan class="panel-num">03</tspan>  Refactor &amp; Improve</text>
   </g>
 </svg>
