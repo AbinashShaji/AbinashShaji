@@ -6,7 +6,7 @@
 
 <img src="./assets/header-title.svg" width="100%" alt="Abinash Shaji — Header">
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=B96F6B&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
 
