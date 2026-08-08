@@ -1,171 +1,231 @@
 <div align="center">
 
-<<<<<<< HEAD
-<img src="./assets/banner.gif" width="100%" alt="Abinash coding">
-
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E85D5D&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING.)](https://git.io/typing-svg)
-
-# ABINASH SHAJI
-
-### `MCA STUDENT` • `DEVELOPER` • `PROBLEM SOLVER`
-
-**BUILD. BREAK. REPAIR.**
-
-*Always learning. Always building.*
-=======
-<img src="./assets/banner.svg" width="100%" alt="Abinash Shaji">
->>>>>>> b7882f67fb2ca7462ab12a05da8bb864a7e86570
+<img src="./assets/header-title.svg" width="100%" alt="Abinash Shaji — Header">
 
 <br>
 
-<img
-  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING."
-  alt="Typing SVG"
-/>
+<img src="./assets/banner.gif" width="100%" alt="Abinash Shaji — Late Night Workspace" style="border-radius: 8px;">
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/abinashshaji/)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=8B5CF6)](https://github.com/AbinashShaji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0F1A?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://github.com/AbinashShaji)
-![Profile Views](https://komarev.com/ghpvc/?username=AbinashShaji&style=for-the-badge&color=0B0F1A&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=B8A4FF&center=true&vCenter=true&width=700&lines=FROM+MY+DESK+%E2%86%92+TO+GITHUB;WHERE+IDEAS+BECOME+CODE;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/abinashshaji/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D0F14?style=for-the-badge&logo=linkedin&logoColor=B8A4FF" alt="LinkedIn" />
+</a>
+<a href="https://github.com/AbinashShaji">
+  <img src="https://img.shields.io/badge/GitHub-0D0F14?style=for-the-badge&logo=github&logoColor=B8A4FF" alt="GitHub" />
+</a>
+<a href="https://portfolio-2-gilt-one.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF" alt="Portfolio" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=AbinashShaji&style=for-the-badge&color=0D0F14&labelColor=11131A&label=VISITS" alt="Profile Views" />
 
 </div>
 
-<br>
+<br><br>
 
-## `> whoami`
-
-I'm an **MCA student and developer** who enjoys turning ideas into working software.
-
-I like the process as much as the result — learning a technology, experimenting with it, building something, breaking it, figuring out why it broke, and improving it.
-
-Currently exploring **full-stack development, Python, Java, JavaScript, React, Flask, databases, cloud and DevOps**.
-
-> **Build something → Break something → Understand it → Repair it → Build it better.**
+<img src="./assets/sec-whoami.svg" width="100%" alt="01 // Who Am I">
 
 <br>
 
-## `> stack`
+I'm an **MCA student and full-stack developer** driven by turning conceptual ideas into robust, resilient software.
+
+I appreciate the entire engineering cycle as much as the finished product — learning a technology from fundamentals, building prototypes, diagnosing edge cases and failures, understanding root causes, and refactoring toward clean architecture.
+
+Currently exploring **full-stack architecture, Python, Java, JavaScript, React, Flask, databases, cloud, and DevOps**.
+
+> *“Build something → Break something → Understand it → Repair it → Build it better.”*
+
+<br><br>
+
+<img src="./assets/sec-mindset.svg" width="100%" alt="02 // Core Philosophy">
+
+<br>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,html,css,tailwind,nodejs,flask,mysql,sqlite,git,github,docker,postman,c&theme=dark" alt="Skills" />
-
+  <img src="./assets/build-break-repair.svg" width="100%" alt="Build Break Repair Framework">
 </div>
 
-<br>
+<br><br>
 
-## `> featured projects`
+<img src="./assets/sec-stack.svg" width="100%" alt="03 // Technical Stack">
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💰 Finzave
-A personal finance assistant focused on tracking expenses, analyzing spending patterns, understanding savings, and helping users make better financial decisions.
+#### ◈ `LANGUAGES`
+<br>
 
-`Python` `Flask` `SQLite` `Analytics`
+[![Python](https://img.shields.io/badge/Python-0D0F14?style=for-the-badge&logo=python&logoColor=B8A4FF)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-0D0F14?style=for-the-badge&logo=openjdk&logoColor=B8A4FF)](https://www.oracle.com/java/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0D0F14?style=for-the-badge&logo=javascript&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-0D0F14?style=for-the-badge&logo=c&logoColor=B8A4FF)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Portfolio
-My personal developer portfolio — focused on presenting my work, skills, experiments and projects through a modern interface.
+#### ◈ `FRONTEND`
+<br>
 
-`JavaScript` `React` `Modern UI`
+[![React](https://img.shields.io/badge/React-0D0F14?style=for-the-badge&logo=react&logoColor=B8A4FF)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-0D0F14?style=for-the-badge&logo=vite&logoColor=B8A4FF)](https://vitejs.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-0D0F14?style=for-the-badge&logo=html5&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-0D0F14?style=for-the-badge&logo=css3&logoColor=B8A4FF)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D0F14?style=for-the-badge&logo=tailwindcss&logoColor=B8A4FF)](https://tailwindcss.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Freelance
-A collection of freelance/client-oriented work and experiments built while learning and applying modern web technologies.
+#### ◈ `BACKEND & DATABASE`
+<br>
 
-`JavaScript` `Web Development`
+[![Flask](https://img.shields.io/badge/Flask-0D0F14?style=for-the-badge&logo=flask&logoColor=B8A4FF)](https://flask.palletsprojects.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-0D0F14?style=for-the-badge&logo=springboot&logoColor=B8A4FF)](https://spring.io/projects/spring-boot)
+[![SQLite](https://img.shields.io/badge/SQLite-0D0F14?style=for-the-badge&logo=sqlite&logoColor=B8A4FF)](https://www.sqlite.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0F14?style=for-the-badge&logo=postgresql&logoColor=B8A4FF)](https://www.postgresql.org/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Traid Future
-A project exploring trading-related insights and future-oriented analysis.
+#### ◈ `TOOLS & PLATFORMS`
+<br>
 
-`TypeScript` `Web Development`
+[![Git](https://img.shields.io/badge/Git-0D0F14?style=for-the-badge&logo=git&logoColor=B8A4FF)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-0D0F14?style=for-the-badge&logo=docker&logoColor=B8A4FF)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF)](https://vercel.com/)
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
-## `> currently`
-
-```text
-🎓  MCA Student
-💻  Building full-stack applications
-🐍  Working with Python & Flask
-⚛️  Exploring React & modern frontend development
-☁️  Learning Cloud & DevOps
-🧠  Improving problem solving & system design
-🔧  Turning ideas into projects
-```
+<img src="./assets/sec-projects.svg" width="100%" alt="04 // Featured Projects">
 
 <br>
 
-## `> contribution game`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🐍 The Snake Eats My Contributions
+### ◈ Finzave
+*Personal Finance Assistant*
+
+A personal finance assistant focused on tracking expenses, analyzing spending patterns, understanding savings, and helping users make data-driven financial decisions.
+
+`Python` · `Flask` · `SQLite` · `Analytics`
+
+<br>
+
+[View Architecture ↗](https://github.com/AbinashShaji)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Portfolio
+*Developer Portfolio & Showcase*
+
+Personal developer portfolio engineered with a modern component architecture to present technical experiments, projects, and background.
+
+`React` · `JavaScript` · `Vite` · `Modern UI`
+
+<br>
+
+[Repository ↗](https://github.com/AbinashShaji/portfolio-2) &nbsp;·&nbsp; [Live Site ↗](https://portfolio-2-gilt-one.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Traid Future
+*Market Insights & Future Analysis*
+
+A web application exploring market insights, predictive data visualization, and financial data structures.
+
+`TypeScript` · `React` · `Analytics`
+
+<br>
+
+[Repository ↗](https://github.com/AbinashShaji/Traid_future)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Freelance Work
+*Client Solutions & Web Applications*
+
+A curated collection of responsive web development projects, bespoke client applications, and frontend implementations.
+
+`JavaScript` · `Web Development` · `UI/UX`
+
+<br>
+
+[Repository ↗](https://github.com/AbinashShaji/freelance-)
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<img src="./assets/sec-snake.svg" width="100%" alt="05 // Contribution Game">
+
+<br>
 
 <div align="center">
 
 <!-- Generated automatically by .github/workflows/snake.yml -->
-<img src="./output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake animation">
 
 </div>
 
-<br>
+<br><br>
 
-## `> github activity`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbinashShaji&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=8B5CF6&icon_color=38BDF8&text_color=C9D1D9&ring_color=8B5CF6&include_all_commits=true" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=AbinashShaji&hide_border=true&background=0B0F1A&ring=8B5CF6&fire=38BDF8&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B98B8&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-</div>
+<img src="./assets/sec-activity.svg" width="100%" alt="06 // Activity and Metrics">
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinashShaji&bg_color=0B0F1A&color=C9D1D9&line=8B5CF6&point=38BDF8&area=true&hide_border=true" width="95%" alt="Contribution activity graph">
+<img height="180em" src="https://streak-stats.demolab.com?user=AbinashShaji&hide_border=true&background=0D0F14&ring=B8A4FF&fire=B8A4FF&currStreakLabel=B8A4FF&sideLabels=A7A3B5&dates=8F82C7&currStreakNum=F2F0F7&sideNums=F2F0F7" alt="GitHub Streak Stats" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbinashShaji&bg_color=0D0F14&color=A7A3B5&line=B8A4FF&point=F2F0F7&area=true&area_color=11131A&hide_border=true" width="98%" alt="Contribution Activity Graph" />
 
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-
-**BUILD** → **BREAK** → **REPAIR** → **LEARN** → **REPEAT**
-
-</div>
+<img src="./assets/sec-connect.svg" width="100%" alt="07 // Connect">
 
 <br>
-
-## `> connect`
 
 <div align="center">
 
 <a href="https://github.com/AbinashShaji">
-<img src="https://img.shields.io/badge/GitHub-AbinashShaji-0B0F1A?style=for-the-badge&logo=github&logoColor=8B5CF6">
+  <img src="https://img.shields.io/badge/GitHub-AbinashShaji-0D0F14?style=for-the-badge&logo=github&logoColor=B8A4FF" alt="GitHub" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abinashshaji/">
-<img src="https://img.shields.io/badge/LinkedIn-AbinashShaji-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=60A5FA">
+  <img src="https://img.shields.io/badge/LinkedIn-AbinashShaji-0D0F14?style=for-the-badge&logo=linkedin&logoColor=B8A4FF" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
+<a href="https://portfolio-2-gilt-one.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live_Site-0D0F14?style=for-the-badge&logo=vercel&logoColor=B8A4FF" alt="Portfolio Live" />
+</a>
+
+<br><br>
+
+*“Quiet nights. Deep focus. Constantly refining.”*
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0F1A,50:151B2E,100:0B0F1A&height=90&section=footer&text=Thanks%20for%20stopping%20by&fontSize=18&fontColor=8B5CF6&fontAlignY=65&animation=fadeIn" width="100%">

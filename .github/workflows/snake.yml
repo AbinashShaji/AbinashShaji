@@ -13,16 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#E85D5D
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E85D5D
+            output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#B8A4FF
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#B8A4FF
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: update contribution snake"
+          message: "chore: update contribution snake [skip ci]"
           add: "output/*.svg"
