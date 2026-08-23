@@ -18,7 +18,7 @@
 <a href="https://github.com/AbinashShaji">
   <img src="https://img.shields.io/badge/GitHub-0D0F12?style=for-the-badge&logo=github&logoColor=B96F6B" alt="GitHub" />
 </a>
-<a href="https://portfolio-2-gilt-one.vercel.app">
+<a href="https://abinashshaji-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D0F12?style=for-the-badge&logo=vercel&logoColor=B96F6B" alt="Portfolio" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=AbinashShaji&style=for-the-badge&color=0D0F12&labelColor=25282A&label=VISITS" alt="Profile Views" />
@@ -167,7 +167,7 @@ Personal developer portfolio engineered with a modern component architecture to 
 
 <br>
 
-[Repository ↗](https://github.com/AbinashShaji/portfolio-2) &nbsp;·&nbsp; [Live Site ↗](https://portfolio-2-gilt-one.vercel.app)
+[Repository ↗](https://github.com/AbinashShaji/portfolio-2) &nbsp;·&nbsp; [Live Site ↗](portfolio-2-abinash.vercel.app)
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ A curated collection of responsive web development projects, bespoke client appl
   <img src="https://img.shields.io/badge/LinkedIn-AbinashShaji-0D0F12?style=for-the-badge&logo=linkedin&logoColor=B96F6B" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://portfolio-2-gilt-one.vercel.app">
+<a href="abinashshaji-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live_Site-0D0F12?style=for-the-badge&logo=vercel&logoColor=B96F6B" alt="Portfolio Live" />
 </a>
 
